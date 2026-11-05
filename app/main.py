@@ -44,8 +44,6 @@ origins = [
     "http://localhost:5173",
     "http://localhost:3000",
     "http://localhost:8000",
-    "https://admin.indicationinstruments.com",
-    "https://admin-api.indicationinstruments.com",
 ]
 
 if settings.cors_origins:
